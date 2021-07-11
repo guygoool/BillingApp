@@ -1,4 +1,4 @@
-# AcroCharge Transaction Project
+# Billing App
 
 In the project directory, you can run:
 
